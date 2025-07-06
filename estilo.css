@@ -1,0 +1,65 @@
+ #mensagem {
+            margin-top: 10px;
+            font-weight: bold;
+            color: rgb(151, 30, 9);
+            text-align: center;
+        }
+
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin: 0 auto;
+        }
+
+        th, td {
+            border: 3px solid #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        tr {
+            background-color: #20a2b9;
+            font-weight: bold;
+        }
+
+        tr:hover {
+            background-color: #e0f7fa;
+        }
+
+        img.bandeira {
+            width: 150px;
+            height: auto;
+        }
+
+        img.livros {
+            width: 320px;
+            height: 180px;
+        }
+
+        body {
+            background-color: rgb(197, 250, 232);
+        }
+
+        h1 {
+            color: rgb(31, 146, 175);
+        }  
+
+        p {
+            text-align: justify;
+            font-size: 18px;
+        }
+
+        a {
+            color: blue;
+        }
+
+        a:hover {
+            color: red;
+        }
